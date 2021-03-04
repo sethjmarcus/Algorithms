@@ -21,9 +21,9 @@
    2. Then we take a `count` of these entries.
 
    3. There is no single attribute that can serve as a stand alone primary key. There may exist a combination of attributes that can serve as a composite key, but there is no obvious composite key in the table. More specifically, we are not testing all  possible 
-      $$
+      $
       \sum_{i=1}^{17} {17\choose{i}}
-      $$
+      $
       combinations to try to find this composite key. Use a surrogate key (see [wiki link](https://en.wikipedia.org/wiki/Surrogate_key) for more information).
       
    4. !![](https://github.com/bzombory/QC_Math_290_Spring_2021/blob/main/homeworks/hw04/submissions/3/Hw04Pictures/01b1.jpeg)
